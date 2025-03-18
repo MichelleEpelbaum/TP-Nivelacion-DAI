@@ -1,0 +1,34 @@
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-image: url(https://st4.depositphotos.com/4252389/20944/i/450/depositphotos_209442120-stock-photo-background-numbers-zero-nine-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color:rgb(75, 39, 27);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color: rgb(226, 211, 206);
+
+
+}
+form{
+    border-radius: 15px;
+    border: 4px rgb(145, 104, 93);
+    border-color: rgb(75, 39, 27);
+    background-color:rgb(226, 211, 206) ;
+
+    padding: 2%;
+
+}
+
+button{
+    color:rgb(75, 39, 27);
+    background-color:rgb(145, 104, 93);
+    padding:2%;
+    border-radius: 4%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
